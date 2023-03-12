@@ -2,44 +2,37 @@
 	"items": [
 		{
 			"id": "1",
-			"major": "IIT",
-			"location": "Madras",
+			"name": "IIT Madras",
 			"image": "https://seon81.github.io/resource/university/sample_01.png"
 		},
 		{
 			"id": "2",
-			"major": "AIIMS",
-			"location": "Kharagpur",
+			"name": "AIIMS Kharagpur",
 			"image": "https://seon81.github.io/resource/university/sample_02.png"
 		},
 		{
 			"id": "3",
-			"major": "IIT",
-			"location": "Bombay",
+			"name": "IIT Bombay",
 			"image": "https://seon81.github.io/resource/university/sample_03.png"
 		},
 		{
 			"id": "4",
-			"major": "AIIMS",
-			"location": "Kanpur",
+			"name": "AIIMS Kanpur",
 			"image": "https://seon81.github.io/resource/university/sample_04.png"
 		},
 		{
 			"id": "5",
-			"major": "IIT",
-			"location": "Delhi",
+			"name": "IIT Delhi",
 			"image": "https://seon81.github.io/resource/university/sample_05.png"
 		},
 		{
 			"id": "6",
-			"major": "AIIMS",
-			"location": "Guwahati",
+			"name": "AIIMS Guwahati",
 			"image": "https://seon81.github.io/resource/university/sample_06.png"
 		},
 		{
 			"id": "7",
-			"major": "AIIMS",
-			"location": "Roorkee",
+			"name": "AIIMS Roorkee",
 			"image": "https://seon81.github.io/resource/university/sample_07.png"
 		}
 	]
