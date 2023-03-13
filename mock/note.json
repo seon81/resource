@@ -1,0 +1,34 @@
+{
+	"items": [
+		{
+			"id": "1",
+			"name": "JEE Exam Note",
+			"image": "https://seon81.github.io/resource/note/note_01.png"
+		},
+		{
+			"id": "2",
+			"name": "NEET Exam Note",
+			"image": "https://seon81.github.io/resource/note/note_02.png"
+		},
+		{
+			"id": "3",
+			"name": "JEE Exam Note",
+			"image": "https://seon81.github.io/resource/note/note_03.png"
+		},
+		{
+			"id": "4",
+			"name": "NEET Exam Note",
+			"image": "https://seon81.github.io/resource/note/note_04.png"
+		},
+		{
+			"id": "5",
+			"name": "JEE Exam Note",
+			"image": "https://seon81.github.io/resource/note/note_05.png"
+		},
+		{
+			"id": "6",
+			"name": "NEET Exam Note",
+			"image": "https://seon81.github.io/resource/note/note_06.png"
+		}
+	]
+}
