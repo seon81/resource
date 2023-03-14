@@ -8,32 +8,32 @@
 		{
 			"id": "2",
 			"name": "AIIMS Kharagpur",
-			"image": "https://seon81.github.io/resource/university/sample_02.png"
+			"image": "https://seon81.github.io/resource/university/sample_01.png"
 		},
 		{
 			"id": "3",
 			"name": "IIT Bombay",
-			"image": "https://seon81.github.io/resource/university/sample_03.png"
+			"image": "https://seon81.github.io/resource/university/sample_01.png"
 		},
 		{
 			"id": "4",
 			"name": "AIIMS Kanpur",
-			"image": "https://seon81.github.io/resource/university/sample_04.png"
+			"image": "https://seon81.github.io/resource/university/sample_01.png"
 		},
 		{
 			"id": "5",
 			"name": "IIT Delhi",
-			"image": "https://seon81.github.io/resource/university/sample_05.png"
+			"image": "https://seon81.github.io/resource/university/sample_01.png"
 		},
 		{
 			"id": "6",
 			"name": "AIIMS Guwahati",
-			"image": "https://seon81.github.io/resource/university/sample_06.png"
+			"image": "https://seon81.github.io/resource/university/sample_01.png"
 		},
 		{
 			"id": "7",
 			"name": "AIIMS Roorkee",
-			"image": "https://seon81.github.io/resource/university/sample_07.png"
+			"image": "https://seon81.github.io/resource/university/sample_01.png"
 		}
 	]
 }
