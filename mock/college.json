@@ -1,0 +1,39 @@
+{
+	"items": [
+		{
+			"id": "1",
+			"name": "IIT Madras",
+			"image": "https://seon81.github.io/resource/university/IIT_Madras.png"
+		},
+		{
+			"id": "2",
+			"name": "AIIMS Kharagpur",
+			"image": "https://seon81.github.io/resource/university/IIT_Kanpur.png"
+		},
+		{
+			"id": "3",
+			"name": "IIT Bombay",
+			"image": "https://seon81.github.io/resource/university/IIT_Delhi.png"
+		},
+		{
+			"id": "4",
+			"name": "AIIMS Kanpur",
+			"image": "https://seon81.github.io/resource/university/IIT_Kanpur.png"
+		},
+		{
+			"id": "5",
+			"name": "IIT Delhi",
+			"image": "https://seon81.github.io/resource/university/IIT_Delhi.png"
+		},
+		{
+			"id": "6",
+			"name": "AIIMS Guwahati",
+			"image": "https://seon81.github.io/resource/university/IIT_Madras.png"
+		},
+		{
+			"id": "7",
+			"name": "AIIMS Roorkee",
+			"image": "https://seon81.github.io/resource/university/IIT_Kanpur.png"
+		}
+	]
+}
