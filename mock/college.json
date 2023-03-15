@@ -10,37 +10,37 @@
 			"id": "2",
 			"major": "IIT",
 			"location": "Kharagpur",
-			"image": "https://seon81.github.io/resource/college/IIT_Kanpur.png"
+			"image": "https://seon81.github.io/resource/college/IIT_Delhi.png"
 		},
 		{
 			"id": "3",
 			"major": "IIT",
 			"location": "IIT Bombay",
-			"image": "https://seon81.github.io/resource/college/IIT_Delhi.png"
+			"image": "https://seon81.github.io/resource/college/IIT_Madras.png"
 		},
 		{
 			"id": "4",
 			"major": "IIT",
 			"location": "Kanpur",
-			"image": "https://seon81.github.io/resource/college/IIT_Kanpur.png"
+			"image": "https://seon81.github.io/resource/college/IIT_Delhi.png"
 		},
 		{
 			"id": "5",
 			"major": "IIT",
 			"location": "IIT Delhi",
-			"image": "https://seon81.github.io/resource/college/IIT_Delhi.png"
+			"image": "https://seon81.github.io/resource/college/IIT_Madras.png"
 		},
 		{
 			"id": "6",
 			"major": "IIT",
 			"location": "Guwahati",
-			"image": "https://seon81.github.io/resource/college/IIT_Madras.png"
+			"image": "https://seon81.github.io/resource/college/IIT_Delhi.png"
 		},
 		{
 			"id": "7",
 			"major": "IIT",
 			"location": "Roorkee",
-			"image": "https://seon81.github.io/resource/college/IIT_Kanpur.png"
+			"image": "https://seon81.github.io/resource/college/IIT_Madras.png"
 		}
 	]
 }
