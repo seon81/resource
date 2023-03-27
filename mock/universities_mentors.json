@@ -238,14 +238,6 @@
                         "profile_image": null
                     },
                     {
-                        "member_no": 20,
-                        "seq_service_join_info": 7,
-                        "first_name": null,
-                        "last_name": "lelele",
-                        "thumbnail_profile_image": null,
-                        "profile_image": null
-                    },
-                    {
                         "member_no": 4117,
                         "seq_service_join_info": 4104,
                         "first_name": "le",
@@ -423,14 +415,6 @@
                 "school_group": null,
                 "mentor_list": [
                     {
-                        "member_no": 17,
-                        "seq_service_join_info": 4,
-                        "first_name": null,
-                        "last_name": null,
-                        "thumbnail_profile_image": null,
-                        "profile_image": null
-                    },
-                    {
                         "member_no": 4116,
                         "seq_service_join_info": 4103,
                         "first_name": "lee",
@@ -439,26 +423,26 @@
                         "profile_image": null
                     },
                     {
-                        "member_no": 4144,
-                        "seq_service_join_info": 4131,
-                        "first_name": null,
-                        "last_name": null,
+                        "member_no": 4161,
+                        "seq_service_join_info": 4147,
+                        "first_name": "aaa",
+                        "last_name": "222",
                         "thumbnail_profile_image": null,
                         "profile_image": null
                     },
                     {
-                        "member_no": 4151,
-                        "seq_service_join_info": 4137,
-                        "first_name": null,
-                        "last_name": null,
+                        "member_no": 4166,
+                        "seq_service_join_info": 4152,
+                        "first_name": "fefe",
+                        "last_name": "efef",
                         "thumbnail_profile_image": null,
                         "profile_image": null
                     },
                     {
-                        "member_no": 4155,
-                        "seq_service_join_info": 4141,
-                        "first_name": null,
-                        "last_name": null,
+                        "member_no": 4171,
+                        "seq_service_join_info": 4157,
+                        "first_name": "fef",
+                        "last_name": "efe",
                         "thumbnail_profile_image": null,
                         "profile_image": null
                     }
