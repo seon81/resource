@@ -1,0 +1,695 @@
+{
+    "code": 0,
+    "message": "ok",
+    "value": {
+        "school_list": [
+            {
+                "code": "SCC0000075",
+                "name": "Amity University",
+                "local_name": null,
+                "school_type": "SCT0001",
+                "city": "Gautam Budh Nagar",
+                "address": null,
+                "school_group": null,
+                "mentor_list": [
+                    {
+                        "member_no": 170,
+                        "seq_service_join_info": 157,
+                        "first_name": "Megha",
+                        "last_name": "Srivastava ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 466,
+                        "seq_service_join_info": 453,
+                        "first_name": "Shreya",
+                        "last_name": "kansal",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1442,
+                        "seq_service_join_info": 1429,
+                        "first_name": "Shreya",
+                        "last_name": "kansal",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1853,
+                        "seq_service_join_info": 1840,
+                        "first_name": "Manish ",
+                        "last_name": "Singh",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1869,
+                        "seq_service_join_info": 1856,
+                        "first_name": "Aman",
+                        "last_name": "Verma",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 2263,
+                        "seq_service_join_info": 2250,
+                        "first_name": "Aman",
+                        "last_name": "Verma",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 2500,
+                        "seq_service_join_info": 2487,
+                        "first_name": "Jaswanth Arya",
+                        "last_name": "Ramisetti",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    }
+                ]
+            },
+            {
+                "code": "SCC0000085",
+                "name": "Delhi Technological University",
+                "local_name": null,
+                "school_type": "SCT0001",
+                "city": "New Delhi",
+                "address": null,
+                "school_group": null,
+                "mentor_list": [
+                    {
+                        "member_no": 62,
+                        "seq_service_join_info": 49,
+                        "first_name": "Sachin",
+                        "last_name": "Jayswal",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 584,
+                        "seq_service_join_info": 571,
+                        "first_name": "Adarsh",
+                        "last_name": "Gupta",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 914,
+                        "seq_service_join_info": 901,
+                        "first_name": "Danish",
+                        "last_name": "Shamshir ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1056,
+                        "seq_service_join_info": 1043,
+                        "first_name": "Shashank",
+                        "last_name": "Taneja",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1478,
+                        "seq_service_join_info": 1465,
+                        "first_name": "Sachin",
+                        "last_name": "Jayswal ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 2364,
+                        "seq_service_join_info": 2351,
+                        "first_name": "Abhay ",
+                        "last_name": "Sharma ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    }
+                ]
+            },
+            {
+                "code": "SCC0000067",
+                "name": "Anna University",
+                "local_name": null,
+                "school_type": "SCT0001",
+                "city": "Chennai",
+                "address": null,
+                "school_group": null,
+                "mentor_list": [
+                    {
+                        "member_no": 360,
+                        "seq_service_join_info": 347,
+                        "first_name": "santhosh",
+                        "last_name": "Mohan ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 388,
+                        "seq_service_join_info": 375,
+                        "first_name": "Preethi",
+                        "last_name": "Kalyani",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 445,
+                        "seq_service_join_info": 432,
+                        "first_name": "Navaneedakrishnan",
+                        "last_name": "Ganesan",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 458,
+                        "seq_service_join_info": 445,
+                        "first_name": "Santhosh khanna",
+                        "last_name": "B",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 822,
+                        "seq_service_join_info": 809,
+                        "first_name": "Navaneedakrishnan",
+                        "last_name": "Ganesan",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 895,
+                        "seq_service_join_info": 882,
+                        "first_name": "santhosh kumar",
+                        "last_name": "Mohan ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1231,
+                        "seq_service_join_info": 1218,
+                        "first_name": "Rajeswari",
+                        "last_name": "Govinthan",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1390,
+                        "seq_service_join_info": 1377,
+                        "first_name": "Dhurga",
+                        "last_name": "Devi",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1553,
+                        "seq_service_join_info": 1540,
+                        "first_name": "Vetri vel",
+                        "last_name": "Veerapandian",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1569,
+                        "seq_service_join_info": 1556,
+                        "first_name": "Bharathi ",
+                        "last_name": "S",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    }
+                ]
+            },
+            {
+                "code": "SCC0000009",
+                "name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",
+                "local_name": null,
+                "school_type": "SCT0001",
+                "city": "Thiruvananthapuram",
+                "address": null,
+                "school_group": null,
+                "mentor_list": [
+                    {
+                        "member_no": 19,
+                        "seq_service_join_info": 6,
+                        "first_name": "Chriss",
+                        "last_name": "Mason",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 20,
+                        "seq_service_join_info": 7,
+                        "first_name": null,
+                        "last_name": "lelele",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 4117,
+                        "seq_service_join_info": 4104,
+                        "first_name": "le",
+                        "last_name": "le",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 4119,
+                        "seq_service_join_info": 4106,
+                        "first_name": "qer",
+                        "last_name": "qgwer",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 4120,
+                        "seq_service_join_info": 4107,
+                        "first_name": "lee",
+                        "last_name": "jaek",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 4128,
+                        "seq_service_join_info": 4115,
+                        "first_name": "eh",
+                        "last_name": "werh",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    }
+                ]
+            },
+            {
+                "code": "SCC0000065",
+                "name": "National Institute of Technology Rourkela",
+                "local_name": null,
+                "school_type": "SCT0001",
+                "city": "Rourkela",
+                "address": null,
+                "school_group": null,
+                "mentor_list": [
+                    {
+                        "member_no": 196,
+                        "seq_service_join_info": 183,
+                        "first_name": "Muneer Ahamad",
+                        "last_name": "Shaik",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 393,
+                        "seq_service_join_info": 380,
+                        "first_name": "Brajesh",
+                        "last_name": "Mohanty",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1347,
+                        "seq_service_join_info": 1334,
+                        "first_name": "Sayed Ersad",
+                        "last_name": "Alli",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 2149,
+                        "seq_service_join_info": 2136,
+                        "first_name": "Naveen",
+                        "last_name": "Chand",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    }
+                ]
+            },
+            {
+                "code": "SCC0000059",
+                "name": "Indian Institute of Technology Hyderabad",
+                "local_name": null,
+                "school_type": "SCT0001",
+                "city": "Hyderabad",
+                "address": null,
+                "school_group": "IIT",
+                "mentor_list": [
+                    {
+                        "member_no": 65,
+                        "seq_service_join_info": 52,
+                        "first_name": "Rati Kanta",
+                        "last_name": "Pal",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 248,
+                        "seq_service_join_info": 235,
+                        "first_name": "Amit",
+                        "last_name": "Ranjan",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 411,
+                        "seq_service_join_info": 398,
+                        "first_name": "Amar",
+                        "last_name": "Bhosale",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 414,
+                        "seq_service_join_info": 401,
+                        "first_name": "Aditya ",
+                        "last_name": "Prakash ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 594,
+                        "seq_service_join_info": 581,
+                        "first_name": "Swapnaneel ",
+                        "last_name": "Sarmah",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 612,
+                        "seq_service_join_info": 599,
+                        "first_name": "Mayank ",
+                        "last_name": "Agrawal ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 880,
+                        "seq_service_join_info": 867,
+                        "first_name": "Pranjal ",
+                        "last_name": "Desale",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 929,
+                        "seq_service_join_info": 916,
+                        "first_name": "Subiksha",
+                        "last_name": "Gayathiri",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 953,
+                        "seq_service_join_info": 940,
+                        "first_name": "Divyanshu ",
+                        "last_name": "Raj",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1099,
+                        "seq_service_join_info": 1086,
+                        "first_name": "KETHAVATH DEVULAL",
+                        "last_name": "NAIK",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    }
+                ]
+            },
+            {
+                "code": "SCC0000002",
+                "name": "Post Graduate Institute of Medical Education and Research",
+                "local_name": null,
+                "school_type": "SCT0001",
+                "city": "Chandigarh",
+                "address": null,
+                "school_group": null,
+                "mentor_list": [
+                    {
+                        "member_no": 17,
+                        "seq_service_join_info": 4,
+                        "first_name": null,
+                        "last_name": null,
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 4116,
+                        "seq_service_join_info": 4103,
+                        "first_name": "lee",
+                        "last_name": "leejjjj",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 4144,
+                        "seq_service_join_info": 4131,
+                        "first_name": null,
+                        "last_name": null,
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 4151,
+                        "seq_service_join_info": 4137,
+                        "first_name": null,
+                        "last_name": null,
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 4155,
+                        "seq_service_join_info": 4141,
+                        "first_name": null,
+                        "last_name": null,
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    }
+                ]
+            },
+            {
+                "code": "SCC0000061",
+                "name": "Jadavpur University",
+                "local_name": null,
+                "school_type": "SCT0001",
+                "city": "Kolkata",
+                "address": null,
+                "school_group": null,
+                "mentor_list": [
+                    {
+                        "member_no": 78,
+                        "seq_service_join_info": 65,
+                        "first_name": "Sayantan ",
+                        "last_name": "Bhakta",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 369,
+                        "seq_service_join_info": 356,
+                        "first_name": "Sahil",
+                        "last_name": "Khan",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1283,
+                        "seq_service_join_info": 1270,
+                        "first_name": "Shivam",
+                        "last_name": ".",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1292,
+                        "seq_service_join_info": 1279,
+                        "first_name": "SAGNIK",
+                        "last_name": "PATTANAYAK",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1437,
+                        "seq_service_join_info": 1424,
+                        "first_name": "Sayantan",
+                        "last_name": "Bhakta ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1982,
+                        "seq_service_join_info": 1969,
+                        "first_name": "Sahil",
+                        "last_name": "Khan",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    }
+                ]
+            },
+            {
+                "code": "SCC0000099",
+                "name": "Visvesvaraya Technological University",
+                "local_name": null,
+                "school_type": "SCT0001",
+                "city": "Belgaum",
+                "address": null,
+                "school_group": null,
+                "mentor_list": [
+                    {
+                        "member_no": 253,
+                        "seq_service_join_info": 240,
+                        "first_name": "Suraj ",
+                        "last_name": "Mourya ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 883,
+                        "seq_service_join_info": 870,
+                        "first_name": "Inchara ",
+                        "last_name": "K M",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1030,
+                        "seq_service_join_info": 1017,
+                        "first_name": "Atif",
+                        "last_name": "Imam",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1159,
+                        "seq_service_join_info": 1146,
+                        "first_name": "Suraj ",
+                        "last_name": "Mourya ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1227,
+                        "seq_service_join_info": 1214,
+                        "first_name": "Sadiya",
+                        "last_name": "Kouser",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1412,
+                        "seq_service_join_info": 1399,
+                        "first_name": "Sharavan",
+                        "last_name": "Kumar",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1541,
+                        "seq_service_join_info": 1528,
+                        "first_name": "Vineetha ",
+                        "last_name": "S",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 2542,
+                        "seq_service_join_info": 2529,
+                        "first_name": "Poornima ",
+                        "last_name": "VS",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    }
+                ]
+            },
+            {
+                "code": "SCC0000095",
+                "name": "Chandigarh University",
+                "local_name": null,
+                "school_type": "SCT0001",
+                "city": "Mohali",
+                "address": null,
+                "school_group": null,
+                "mentor_list": [
+                    {
+                        "member_no": 60,
+                        "seq_service_join_info": 47,
+                        "first_name": "Sulekha",
+                        "last_name": "SHARMA ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 90,
+                        "seq_service_join_info": 77,
+                        "first_name": "Rupali ",
+                        "last_name": "Pandey ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 571,
+                        "seq_service_join_info": 558,
+                        "first_name": "Ratandeep",
+                        "last_name": "SINGH",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 757,
+                        "seq_service_join_info": 744,
+                        "first_name": "Ashutosh ",
+                        "last_name": "Kumar ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1090,
+                        "seq_service_join_info": 1077,
+                        "first_name": "Ravi",
+                        "last_name": "kumar",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1470,
+                        "seq_service_join_info": 1457,
+                        "first_name": "Saurav ",
+                        "last_name": "Thakur ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1538,
+                        "seq_service_join_info": 1525,
+                        "first_name": "MONIKA",
+                        "last_name": "Gupta ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1545,
+                        "seq_service_join_info": 1532,
+                        "first_name": "Ritu",
+                        "last_name": "Agrawal",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1631,
+                        "seq_service_join_info": 1618,
+                        "first_name": "Akash ",
+                        "last_name": "Ranjan",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    },
+                    {
+                        "member_no": 1646,
+                        "seq_service_join_info": 1633,
+                        "first_name": "Saurav ",
+                        "last_name": "Thakur ",
+                        "thumbnail_profile_image": null,
+                        "profile_image": null
+                    }
+                ]
+            }
+        ],
+        "total_size": 10
+    }
+}
